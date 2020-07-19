@@ -4,7 +4,10 @@ title: "Vale Series: Linting your files with Vale (2/3)"
 comments: true
 author: deanna
 categories: [Vale]
+image: "assets/images/Coding-rafiki.png"
 ---
+
+In this tutorial, you'll create a `vale.ini` file, configure it, and use Vale to lint some sample text.
 
 ## Prerequisites
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resources
+title: Technical writing resources
 permalink: /resources
 comments: false
 ---

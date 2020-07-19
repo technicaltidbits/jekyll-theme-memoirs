@@ -4,7 +4,7 @@ title: "Technical Tidbits"
 description: "Technical Tidbits is home to various thought sketches and tutorials related to technical communication and UX/UI design."
 logo: 'assets/images/favicon.png'
 favicon: 'assets/images/favicon.png'
-baseurl: /jekyll-theme-memoirs
+baseurl: ''
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'

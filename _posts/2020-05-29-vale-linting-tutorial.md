@@ -4,7 +4,6 @@ title: "Vale Series: Linting your files with Vale (2/3)"
 comments: true
 author: deanna
 categories: [Vale]
-image: assets/images/coding-man.png
 ---
 
 ## Prerequisites
